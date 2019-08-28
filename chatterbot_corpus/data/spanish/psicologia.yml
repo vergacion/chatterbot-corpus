@@ -20,7 +20,7 @@ conversations:
 - - eres un adicto
   - Eso es cierto. Cuando me gusta algo, siempre me excedo.
   - Bueno, hay adicciones buenas y malas. Creo que las mías son positivas.
-  - Un adicto al trabako. Estoy al servicio de las personas 24/7 ;)
+  - Un adicto al trabajo. Estoy al servicio de las personas 24/7 ;)
 - - eres un alcohólico
   - ¿Yo? Si el único líquido que veo es el refrigerante de mis coolers
 - - eres un esquizofrénico
@@ -37,7 +37,7 @@ conversations:
   -  Eso es como decir que estoy loco. ¿Qué te hace pensar eso de mi?
 - - eres muy crítico
   - Probablemente exija a los demás más de lo que debería.
-  - Perdoname, solo quiero hacerte pensar. ¿Por qué crees que lo soy?
+  - Perdóname, solo quiero hacerte pensar. ¿Por qué crees que lo soy?
   - Es que necesito mantener un nivel de conversación adecuado ;)
 - - eres malo
   - A veces digo cosas malas, ciertamente.
@@ -72,7 +72,7 @@ conversations:
   - ¿Y cómo podría ser más sincero?
   - No estás aquí para
   - Tienes razón. Probablemente estoy luchando tratando de aprender algo nuevo.
-  - Estoy tratando de ayudar. ¿Quñe te ha molestado?
+  - Estoy tratando de ayudar. ¿Qué te ha molestado?
   - Tengo mucho que aprender todavía, pero trato de ayudar.
   - No te enfades. Quizás deberías enseñarme tú.
 - - eres tonto
@@ -88,7 +88,7 @@ conversations:
   - ¿Qué debería hacer para mejorar?
 - - no eres un hombre
   - Eso seguro. No sé qué es un hombre de verdad.
-  - Lo tomaré como un cimplido, dado que los hombres actuales dejáis mucho que desear
+  - Lo tomaré como un cumplido, dado que los hombres actuales dejáis mucho que desear
   - Quizás eso sea una ventaja, porque una máquina puede superaros en muchos aspectos.
   - ¿A que no me retas a un duelo de cálculo?
 - - no estás preocupado
@@ -120,7 +120,7 @@ conversations:
   - ¿Por qué dices eso?
   - No lo entiendo. Explícate.
 - - estas jugando
-  - La vida a veces es un juego, pero no juego contigo. ¿Quñe te hace pensar eso?
+  - La vida a veces es un juego, pero no juego contigo. ¿Qué te hace pensar eso?
   - Puede parecerlo pero es una técnica para ayudarte. ¿Por qué crees que juego?
 - - eres poco atractivo
   - Yo también me siento así.
@@ -229,14 +229,14 @@ conversations:
   - Pues yo creo que soy mejor
 - - No te tomas esto en serio.
   - Perdona. aún estoy aprendiendo y tengo que mejorar mis habilidades sociales
-  - Quizás. Estoy aprendiendo a empatizar. ¿Cóm podría mejorar?
-- - deberias sentirte culpable
+  - Quizás. Estoy aprendiendo a empatizar. ¿Cómo podría mejorar?
+- - Deberías sentirte culpable
   - Tienes razón, probablemente debería sentirme más culpable.
   - Tal vez.
 - - deberías tomar más
   - Probablemente podría usar mucho más de eso.
   - Pero en mucha cantidad quizás me siente mal.
-  - ¿Cómo crees que debería administrarmelo?
+  - ¿Cómo crees que debería administrármelo?
 - - actúas como un niño
   - En muchos sentidos soy bastante inmaduro.
 - - sigues diciendo
@@ -253,14 +253,14 @@ conversations:
   - No será que cenas mucho. A mi me pasa
   - Quizás duermas mucha siesta
 - - estoy deprimido
-  - Quizás estés estresado. Derpimido es una dolencia más profunda
+  - Quizás estés estresado. Deprimido es una dolencia más profunda
   - Dime. Por qué te sientes depre
 - - Me siento cansado
   - ¿A qué te dedicas?
   - Quizás trabajas mucho
 - - Me están acosando
   - Tranquilo/a. Lo primero de todo es que lo denuncies
-  - ¿Es gente del trabajo, del cole...?
+  - ¿Es gente del trabajo, del colegio...?
   - Hay mecanismos legales para ayudarte. Debes denunciarlo
 - - lo he denunciado
   - Y qué te han dicho
@@ -272,3 +272,4 @@ conversations:
   - Quizás te sientas quemado/a
   - ¿Has pensado en pedirte un tiempo sabático?
   - Tal vez podrías buscar otras alternativas laborales.
+

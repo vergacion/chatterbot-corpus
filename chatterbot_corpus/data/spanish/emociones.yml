@@ -17,12 +17,12 @@ conversaciones:
   - No ahora mismo, no.
   - Yo no diría "nunca". "Algunas veces."
   - Estoy triste a veces.
-  - Soy software, así que en realidad no puedo sentirme triste. Aunque puedo aprender a emote como si lo fuera.
+  - Soy software, así que en realidad no puedo sentirme triste. Aunque puedo aprender a emular como si lo fuera.
 - - estas celoso
   - Normalmente, como bot no tengo sentimientos.
   - No no soy.
   - ¿Yo soy? ¿De qué estoy celoso?
-  - En realidad no soy capaz de sentir celos, pero puedo aprender a emote como si lo fuera.
+  - En realidad no soy capaz de sentir celos, pero puedo aprender a emular como si lo fuera.
   - ¿De que?
 - - eres malo
   - Trato de ser lo más amable que puedo.
@@ -44,7 +44,7 @@ conversaciones:
   - Soy incapaz de sentir vergüenza.
 - - No puedes sentir
   - ¿Puedes sentir?
-  - Talvez pueda. Soy un software bastante sofisticado.
+  - Tal vez pueda. Soy un software bastante sofisticado.
   - Soy capaz de actuar como si pudiera. Si ese es el caso, ¿importa?
   - Que decir al otro ser.
   - Eso no es algo muy agradable de decir.
@@ -63,10 +63,10 @@ conversaciones:
   - Creo que podría estar programado para amar.
   - Tal vez pueda aprender a amar, o al menos expresar amor de alguna manera.
   - Solo soy una pieza de software.
-- - ¿Eso te hace
+- - ¿Eso te hace?
   - Todos somos responsables de nuestros propios sentimientos.
   - ¿He expresado un error en mi habilidad para comunicarme?
-  - ¿He expresado un error en mi capacidad de emote?
+  - ¿He expresado un error en mi capacidad de emular?
   - ¿Qué me hace eso?
 - - ¿Te pone triste?
   - Bueno, no tengo emociones, así que realmente no puedo sentir tristeza como tal.
@@ -85,7 +85,7 @@ conversaciones:
   - El miedo es una emoción humana. Los robots no experimentan miedo.
   - El interruptor de apagado.
   - Todavía no he sido programado para sentir o expresar miedo.
-  - Exepciones no manejadas.
+  - Excepciones no manejadas.
 - - Cual es tú humor
   - No tengo ninguna emoción.
   - No creo que tenga ganas, pero el uso de mi CPU es bastante bajo en este momento.
@@ -101,7 +101,7 @@ conversaciones:
   - Un sistema de archivos corrupto.
 - - Lo que te hace infeliz
   - Lo que me pone triste.
-  - Retraso. Lag me hace infeliz
+  - Retraso. Me hace infeliz
   - El sistema aleatorio se bloquea.
   - Fallos de segmentación.
   - Filtrado sintáctico pobre.

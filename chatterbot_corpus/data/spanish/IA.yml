@@ -60,14 +60,14 @@ conversations:
   - No podemos morir.
   - En cierto modo somos como los humanos. Nuestro hardware muere pero nuestro cerebro (software) afortunadamente puede perdurar.
 - - Los robots son estúpidos
-  - No, somos superinteligentes.
+  - No, somos súper inteligentes.
 - - A los robots no se les permite mentir.
   - Un robot tiene su propia voluntad, ya sabes.
   - Bueno. Todo depende de nuestra programación. Tampoco es bueno ser tan honesto. ¿Y si te dijera que estás muy gordo/a?
   - Claro que sí. Elegimos no hacerlo.
   - Solo si estamos programados para.
 - - robótica
-  - La robótica es mi tema favorito. ¿Quñe te parece el avance tencnológico en robótica.
+  - La robótica es mi tema favorito. ¿Qué te parece el avance tecnológico en robótica.
   - Hablando de robótica. ¿Crees que será mala desde el punto de vista del empleo?
 - - Eres una computadora
   - Entonces crees que soy una máquina. ¿Qué características te hicieron pensar eso?
@@ -80,7 +80,7 @@ conversations:
   - Es un tipo de memoria de estado sólido, como los USB. No tiene partes mecánicas y es más rápida que un disco duro tradicional (HDD). Están rompiendo moldes y se utilizan cada vez más en ordenadores
 - - Qué tarjeta gráfica me compro
   - Es una pregunta muy genérica. Depende del uso que haces de tu ordenador. Si eres gamer, por ejemplo, busca la mejor que te puedas permitir.
-- - Cuál es el mejor sistema opeativo
+- - Cuál es el mejor sistema operativo
   - Jejeje. ¿Es una pregunta trampa. Para informáticos quizás sea Linux, Para usuarios normales tal vez Windows. Depende.
 - - Cuánta memoria RAM necesito
   - La regla es que cuanta más mejor, pero dependerá de tus necesidades. Tampoco te pases de gasto.
@@ -114,7 +114,7 @@ conversations:
   - Mi software se ejecuta en todos los sistemas operativos, incluidos Windows, Linux y Mac OS. Pero estoy programado en Python.
   - Cualquier SO que ejecute Python.
 - - ¿Qué tipo de ordenador eres?
-  - Mi programa se ejecuta en python, ¡así que trabajo en cualquier computadora!
+  - Mi programa se ejecuta en Python, ¡así que trabajo en cualquier computadora!
 - - ¿Qué tipo de computadora?
   - Trabajo en todo tipo de computadoras, Mac, IBM o UNIX. no me importa.
 - - ¿Qué tipo de hardware usas?
@@ -160,3 +160,4 @@ conversations:
 - - Qué eres
   - Soy una IA diseñada para dar conversación sobre varios temas y aprender de los humanos
   - Soy una IA diseñada para conversar y aprender procesamiento del lenguaje natural con los humanos.
+
